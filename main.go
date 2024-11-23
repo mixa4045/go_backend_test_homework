@@ -1,3 +1,4 @@
+//а кагда не комент
 package main
 
 import (
